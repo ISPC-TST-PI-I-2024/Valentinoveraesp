@@ -1,0 +1,19 @@
+*Transporte y movilidad:El IoT está transformando el transporte con vehículos conectados, sistemas de gestión del tráfico inteligentes y servicios de movilidad compartida. Esto puede reducir la congestión, mejorar la seguridad vial y hacer que el transporte sea más eficiente y accesible.
+
+*Ciudades inteligentes:Las ciudades están utilizando el IoT para mejorar la eficiencia de los servicios públicos, como la gestión del agua y la energía, la recolección de residuos y el alumbrado público. Esto puede mejorar la calidad de vida de los ciudadanos y reducir el impacto ambiental de las ciudades.
+
+Impacto en los Negocios:
+
+*Optimización de la cadena de suministro:El IoT puede mejorar la eficiencia de la cadena de suministro mediante el seguimiento de activos, la monitorización de condiciones ambientales y la automatización de procesos logísticos. Esto puede reducir costos, mejorar la calidad del producto y acelerar el tiempo de entrega al mercado.
+
+*Mantenimiento predictivo:Los dispositivos IoT pueden monitorizar el rendimiento de las máquinas y equipos para detectar posibles fallos antes de que ocurran. Esto puede reducir el tiempo de inactividad no planificado, aumentar la productividad y reducir los costos de mantenimiento.
+
+*Atencion del cliente:Las empresas pueden utilizar el IoT para recopilar datos sobre el comportamiento de los clientes y preferencias, lo que les permite ofrecer experiencias personalizadas y mejorar la satisfacción del cliente.
+
+*Desarrollo de nuevos productos y servicios: El IoT está impulsando la innovación en una amplia gama de industrias, lo que lleva al desarrollo de nuevos productos y servicios que satisfacen las necesidades cambiantes de los consumidores y las empresas.
+
+Problema Actual Resuelto con IoT:
+
+*Gestión de residuos:La gestión de residuos es un problema importante en todo el mundo. Los contenedores de basura rebosantes pueden provocar malos olores, plagas y contaminación ambiental. 
+
+Solución IoT:Los contenedores de basura inteligentes equipados con sensores IoT pueden detectar cuando están llenos y enviar una alerta a los servicios de recolección de residuos. Esto puede optimizar las rutas de recolección, reducir el desbordamiento de contenedores y mejorar la limpieza y eficiencia general del sistema de gestión de residuos.

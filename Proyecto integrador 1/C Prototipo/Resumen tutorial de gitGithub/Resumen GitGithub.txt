@@ -1,0 +1,27 @@
+ Resumen de Git y GitHub
+
+Git es un sistema de control de versiones distribuido (VCS por sus siglas en inglés). Esto significa que es una herramienta útil para:
+
+* Seguir fácilmente los cambios en tu código.
+* Colaborar con otros desarrolladores.
+* Compartir tu código.
+
+Con Git puedes:
+
+* Rastrear los cambios que realizas a tu proyecto para siempre tener un registro de tu trabajo.
+* Volver fácilmente a una versión anterior si lo necesitas.
+* Trabajar con otros de manera más sencilla. Varios desarrolladores pueden colaborar en el mismo proyecto y fusionar sus cambios en una fuente final.
+
+
+GitHub es una plataforma online que utiliza el poder de Git con una interfaz fácil de usar. Se utiliza en todo el mundo del software para colaborar y mantener el historial de proyectos. 
+
+*Aspectos clave de GitHub:*
+
+*Repositorios:Son el lugar donde se almacena el proyecto,como una carpeta principal. Contienen todos los archivos del proyecto y su historial de revisiones. 
+*Clonación:Crear una copia local de un repositorio remoto almacenado en la nube.
+*Commits y pushes:Son la forma de agregar los cambios realizados en tu máquina local al repositorio remoto en GitHub para que otros puedan verlos.
+*Ramas:Permiten aislar el trabajo que no deseas fusionar con tu proyecto final todavía. Se utilizan para desarrollar características, corregir errores o experimentar de forma segura.
+*Forks:Copiar un repositorio para contribuir al proyecto de otra persona.
+*Pull requests:Una forma de informar a otros sobre los cambios que deseas realizar en una rama y solicitar su opinión. 
+*Issues:Sirven para rastrear mejoras, tareas o errores de tu trabajo en GitHub. 
+*Perfil de usuario:Muestra tu trabajo a través de los repositorios que te interesan, las contribuciones que has realizado y las conversaciones que has tenido.
